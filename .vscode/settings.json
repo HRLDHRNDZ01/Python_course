@@ -1,4 +1,6 @@
 {
+    "git.confirmEmptyCommits": false,
     "git.confirmSync": false,
-    "git.decorations.enabled": false
+    "git.decorations.enabled": false,
+    "git.detectSubmodules": false
 }
